@@ -1,17 +1,12 @@
 {
-  "name": "create-robweb-app",
+  "name": "robertogl-saludarv3",
   "version": "1.0.0",
   "description": "",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/robertogl23/create-web-app.git",
-    "directory": "packages/cwa-scripts"
-  },
   "scripts": {
     "start": "app",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "Roberto Carlos Galicia Lopez",
+  "author": "",
   "license": "ISC"
 }
