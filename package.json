@@ -5,7 +5,7 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/robertogl23/create-web-app.git",
-    "directory": "/"
+    "directory": "packages/cwa-scripts"
   },
   "scripts": {
     "start": "app",
